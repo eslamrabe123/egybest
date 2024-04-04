@@ -1,0 +1,1 @@
+Flutter build apk --release
